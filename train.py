@@ -1,6 +1,6 @@
 import numpy as np
 import tensorflow as tf
-from models import HeteGAT_multi
+from models import MsGAT
 from utils import process
 from tool.smalibat import docompile
 from tool.process_permission_2_list import process_permission
