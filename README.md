@@ -1,5 +1,5 @@
 # HAWK
-Source code for paper: HAWK: a Rapid Android Malware Detectionthrough Heterogeneous Graph Attention Networks. 
+The demo code for paper: HAWK: a Rapid Android Malware Detectionthrough Heterogeneous Graph Attention Networks. 
 
 We present HAWK, a rapid Android malware detectionframework that inductively learns and detects new Androidapplications in an incremental manner.  HAWK can promptlyidentify  previously unknown malware at millisecond-level andhas the highest precision compared against all baselines.
 
