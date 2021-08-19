@@ -39,4 +39,4 @@ c2019|94.93%
 
 # Statement
 Due to the limitation of storage, we only upload part of the processed data temporarily.
-The source code is based on Heterogeneous Graph Attention Network、
+The model code is based on Heterogeneous Graph Attention Network.
